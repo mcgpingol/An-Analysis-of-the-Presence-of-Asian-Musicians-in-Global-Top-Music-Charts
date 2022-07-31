@@ -1,0 +1,164 @@
+month,country,count,chartname
+2020-09,South Korean,4,Billboard Global 200
+2020-09,Japanese,3,Billboard Global 200
+2020-10,South Korean,22,Billboard Global 200
+2020-10,Japanese,10,Billboard Global 200
+2020-11,South Korean,33,Billboard Global 200
+2020-11,Japanese,20,Billboard Global 200
+2020-12,South Korean,11,Billboard Global 200
+2020-12,Japanese,7,Billboard Global 200
+2021-01,Japanese,14,Billboard Global 200
+2021-01,South Korean,12,Billboard Global 200
+2021-02,Japanese,9,Billboard Global 200
+2021-02,South Korean,6,Billboard Global 200
+2021-02,Chinese,4,Billboard Global 200
+2021-03,Japanese,12,Billboard Global 200
+2021-03,South Korean,6,Billboard Global 200
+2021-03,Chinese,5,Billboard Global 200
+2021-04,South Korean,7,Billboard Global 200
+2021-04,Japanese,6,Billboard Global 200
+2021-05,South Korean,13,Billboard Global 200
+2021-05,Japanese,3,Billboard Global 200
+2021-05,Filipino,2,Billboard Global 200
+2021-06,South Korean,11,Billboard Global 200
+2021-06,Filipino,4,Billboard Global 200
+2021-06,Japanese,3,Billboard Global 200
+2021-07,South Korean,12,Billboard Global 200
+2021-07,Japanese,6,Billboard Global 200
+2021-07,Filipino,4,Billboard Global 200
+2020-09,Japanese American,2,Billboard Global 200
+2020-10,Japanese American,4,Billboard Global 200
+2020-11,Japanese American,5,Billboard Global 200
+2020-12,Japanese American,2,Billboard Global 200
+2021-01,Japanese American,3,Billboard Global 200
+2021-01,Filipino American,2,Billboard Global 200
+2021-02,Filipino American,4,Billboard Global 200
+2021-02,Japanese American,1,Billboard Global 200
+2021-03,Filipino American,5,Billboard Global 200
+2021-04,Filipino American,9,Billboard Global 200
+2021-05,Filipino American,26,Billboard Global 200
+2021-06,Filipino American,43,Billboard Global 200
+2021-07,Filipino American,34,Billboard Global 200
+2020-09,South Korean,4,Billboard Hot 100
+2020-10,South Korean,5,Billboard Hot 100
+2020-11,South Korean,11,Billboard Hot 100
+2020-12,South Korean,6,Billboard Hot 100
+2021-01,South Korean,4,Billboard Hot 100
+2021-02,South Korean,5,Billboard Hot 100
+2021-03,South Korean,5,Billboard Hot 100
+2021-04,South Korean,2,Billboard Hot 100
+2021-05,Filipino,2,Billboard Hot 100
+2021-05,South Korean,1,Billboard Hot 100
+2021-06,Filipino,4,Billboard Hot 100
+2021-06,South Korean,4,Billboard Hot 100
+2021-07,South Korean,6,Billboard Hot 100
+2021-07,Filipino,4,Billboard Hot 100
+2020-09,Japanese American,4,Billboard Hot 100
+2020-10,Japanese American,4,Billboard Hot 100
+2020-11,Japanese American,4,Billboard Hot 100
+2020-11,Filipino American,1,Billboard Hot 100
+2020-12,Filipino American,1,Billboard Hot 100
+2020-12,Japanese American,1,Billboard Hot 100
+2021-01,Filipino American,6,Billboard Hot 100
+2021-02,Filipino American,10,Billboard Hot 100
+2021-03,Filipino American,10,Billboard Hot 100
+2021-04,Filipino American,11,Billboard Hot 100
+2021-05,Filipino American,23,Billboard Hot 100
+2021-06,Filipino American,42,Billboard Hot 100
+2021-07,Filipino American,37,Billboard Hot 100
+2020-09,South Korean,12,Spotify Top 200 Global
+2020-09,Filipino,4,Spotify Top 200 Global
+2020-09,Japanese,4,Spotify Top 200 Global
+2020-10,South Korean,32,Spotify Top 200 Global
+2020-10,Filipino,5,Spotify Top 200 Global
+2020-10,Chinese,1,Spotify Top 200 Global
+2020-11,South Korean,23,Spotify Top 200 Global
+2020-11,Filipino,5,Spotify Top 200 Global
+2020-11,Chinese,1,Spotify Top 200 Global
+2020-12,South Korean,8,Spotify Top 200 Global
+2020-12,Japanese,4,Spotify Top 200 Global
+2020-12,Filipino,2,Spotify Top 200 Global
+2021-01,South Korean,10,Spotify Top 200 Global
+2021-01,Filipino,5,Spotify Top 200 Global
+2021-02,South Korean,7,Spotify Top 200 Global
+2021-02,Filipino,4,Spotify Top 200 Global
+2021-03,Filipino,4,Spotify Top 200 Global
+2021-03,South Korean,4,Spotify Top 200 Global
+2021-04,South Korean,9,Spotify Top 200 Global
+2021-04,Filipino,2,Spotify Top 200 Global
+2021-05,South Korean,9,Spotify Top 200 Global
+2021-05,Filipino,3,Spotify Top 200 Global
+2021-06,South Korean,10,Spotify Top 200 Global
+2021-06,Filipino,4,Spotify Top 200 Global
+2021-07,South Korean,11,Spotify Top 200 Global
+2021-07,Filipino,4,Spotify Top 200 Global
+2020-09,Japanese American,4,Spotify Top 200 Global
+2020-10,Japanese American,5,Spotify Top 200 Global
+2020-11,Japanese American,4,Spotify Top 200 Global
+2020-12,Japanese American,4,Spotify Top 200 Global
+2021-01,Japanese American,5,Spotify Top 200 Global
+2021-01,Filipino American,4,Spotify Top 200 Global
+2021-02,Filipino American,4,Spotify Top 200 Global
+2021-02,Japanese American,4,Spotify Top 200 Global
+2021-03,Filipino American,8,Spotify Top 200 Global
+2021-03,Japanese American,4,Spotify Top 200 Global
+2021-03,Korean American,4,Spotify Top 200 Global
+2021-04,Filipino American,20,Spotify Top 200 Global
+2021-04,Japanese American,5,Spotify Top 200 Global
+2021-04,Korean American,5,Spotify Top 200 Global
+2021-05,Filipino American,35,Spotify Top 200 Global
+2021-05,Korean American,4,Spotify Top 200 Global
+2021-05,Japanese American,1,Spotify Top 200 Global
+2021-06,Filipino American,51,Spotify Top 200 Global
+2021-06,Korean American,4,Spotify Top 200 Global
+2021-07,Filipino American,41,Spotify Top 200 Global
+2021-07,Korean American,4,Spotify Top 200 Global
+2020-09,Japanese,15,Spotify Top 200 US
+2020-09,South Korean,7,Spotify Top 200 US
+2020-09,Filipino,4,Spotify Top 200 US
+2020-10,South Korean,14,Spotify Top 200 US
+2020-10,Filipino,5,Spotify Top 200 US
+2020-10,Japanese,5,Spotify Top 200 US
+2020-11,South Korean,11,Spotify Top 200 US
+2020-11,Filipino,3,Spotify Top 200 US
+2020-11,Japanese,3,Spotify Top 200 US
+2020-12,Japanese,4,Spotify Top 200 US
+2020-12,South Korean,2,Spotify Top 200 US
+2021-01,South Korean,5,Spotify Top 200 US
+2021-01,Japanese,4,Spotify Top 200 US
+2021-01,Filipino,3,Spotify Top 200 US
+2021-02,Japanese,5,Spotify Top 200 US
+2021-02,Filipino,4,Spotify Top 200 US
+2021-02,South Korean,4,Spotify Top 200 US
+2021-03,Japanese,2,Spotify Top 200 US
+2021-03,South Korean,2,Spotify Top 200 US
+2021-03,Filipino,1,Spotify Top 200 US
+2021-05,South Korean,4,Spotify Top 200 US
+2021-05,Filipino,3,Spotify Top 200 US
+2021-05,Japanese,1,Spotify Top 200 US
+2021-06,Filipino,4,Spotify Top 200 US
+2021-06,South Korean,4,Spotify Top 200 US
+2021-07,South Korean,7,Spotify Top 200 US
+2021-07,Filipino,4,Spotify Top 200 US
+2020-09,Japanese American,4,Spotify Top 200 US
+2020-10,Japanese American,6,Spotify Top 200 US
+2020-11,Japanese American,4,Spotify Top 200 US
+2020-12,Japanese American,4,Spotify Top 200 US
+2021-01,Filipino American,6,Spotify Top 200 US
+2021-01,Japanese American,5,Spotify Top 200 US
+2021-02,Filipino American,4,Spotify Top 200 US
+2021-02,Japanese American,4,Spotify Top 200 US
+2021-03,Filipino American,8,Spotify Top 200 US
+2021-03,Japanese American,4,Spotify Top 200 US
+2021-03,Korean American,4,Spotify Top 200 US
+2021-04,Filipino American,20,Spotify Top 200 US
+2021-04,Korean American,5,Spotify Top 200 US
+2021-04,Japanese American,3,Spotify Top 200 US
+2021-05,Filipino American,35,Spotify Top 200 US
+2021-05,Korean American,4,Spotify Top 200 US
+2021-05,Japanese American,1,Spotify Top 200 US
+2021-06,Filipino American,48,Spotify Top 200 US
+2021-06,Korean American,4,Spotify Top 200 US
+2021-07,Filipino American,46,Spotify Top 200 US
+2021-07,Korean American,4,Spotify Top 200 US
+2021-07,Japanese American,1,Spotify Top 200 US
