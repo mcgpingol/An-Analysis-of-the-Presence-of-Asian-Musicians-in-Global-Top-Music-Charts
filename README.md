@@ -1,4 +1,4 @@
-# An-Analysis-of-the-Presence-of-Asian-Musicians-in-Global-Top-Music-Charts
+# An Analysis of the Presence of Asian Musicians in Global Top Music Charts
 
 For our analysis, the group decided to utilize Spotify, Billboard, and Wikipedia as our sources of information. Using information scraped from Wikipedia’s Category pages, the group was able to create a reference table for musicians from East Asia, SouthEast Asia, and Asian-Americans. Please note that in this report, we will be referring to musicians of pure Asian descent as Asians, and those of Asian-American descent as mixed-Asians. The group then collected information from Spotify and Billboard using their respective APIs and processed the scraped data into a separate table. We used these databases as references to check the Asian lineage and origin country of musicians who have been featured in Spotify and Billboard’s top charts for our analysis.
 
